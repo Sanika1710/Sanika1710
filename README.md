@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Sanika!  
-### A Passionate Full-Stack Developer  
+### A Passionate Full-Stack Developer and a Open Source Contributer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanika1710&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
